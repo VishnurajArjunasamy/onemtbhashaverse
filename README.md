@@ -10,6 +10,9 @@ onemtbhashaverse
 - Translation Error Identification and Categorization
 - Automatic Post-Editing (APE)
 
+# HF Model
+- The model is also available as safetensors in huggingface
+- The inference script is available under ./hf_model folder
 
 # Cite
 
