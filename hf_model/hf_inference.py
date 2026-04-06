@@ -5,7 +5,7 @@ from transformers import MBartForConditionalGeneration
 
 from huggingface_hub import hf_hub_download
 
-HF_REPO        = "vishnu-vizz/onemtv3b"   
+HF_REPO        = "ltrciiith/bhashaverse"   
 
 SPM_MODEL_PATH = hf_hub_download(HF_REPO, "onemtv3b_spm.model")
 DICT_PATH      = hf_hub_download(HF_REPO, "fairseq_dict.json")
