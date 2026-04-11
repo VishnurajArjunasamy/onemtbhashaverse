@@ -105,5 +105,8 @@ http://0.0.0.0:8084/onemtapi/v1/translateulca
 ### supported language pairs
 - 36*36
 
+#### HF Weights
+- The Fairseq weighgts has been converted into Huggingface weighgts, scripts are available under `./hf_model` folder
+
 
 
